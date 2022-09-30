@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Political Preparedness</string>
+
+    <!-- TODO: Add necessary string values -->
+    <string name="follow">Follow Election</string>
+    <string name="unfollow">Unfollow Election</string>
+    <string name="upcoming_elections">Upcoming elections</string>
+    <string name="find_my_representative">Find My Representative</string>
+    <string name="election_detail">Election Details</string>
+    <string name="elections">Elections</string>
+    <string name="use_my_location">Use My Location</string>
+    <string name="representatives">Representatives</string>
+    <string name="search">search</string>
+    <string name="follow_election">Follow Election</string>
+    <string name="error_location_denied">Location permission denied!</string>
+</resources>
